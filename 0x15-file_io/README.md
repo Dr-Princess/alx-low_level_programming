@@ -1,1 +1,1 @@
- This readme is about the project 0x15 file io
+this project is about 0x15. C - File I/O
